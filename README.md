@@ -30,8 +30,8 @@
 ### 📘 UniNotes – College Notes Management App
 A structured notes management app for students with clean UI and organized storage.
 
-### 🛒 E-Commerce Application
-Responsive shopping app with product listing, cart system, and modern UI.
+### 🤖 AI Recommendation App
+An intelligent recommendation system built with Flutter and API integration that suggests personalized content based on user input and preferences.
 
 ### 🍲 Recipe App
 Recipe browsing application with categorized content and API integration.
@@ -51,9 +51,9 @@ Spotify-inspired UI design built with Flutter focusing on layout and animations.
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: Add your LinkedIn link here
-- 🌐 Portfolio: (Coming Soon)
+- 📧 Email: kashyaprohit9214@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/rohit-51b097391?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 🌐 Portfolio: https://github.com/Rohit-kashyap857
 
 ---
 
