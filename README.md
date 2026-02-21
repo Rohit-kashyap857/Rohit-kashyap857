@@ -29,10 +29,11 @@
 
 ### 📘 UniNotes – College Notes Management App
 A structured notes management app for students with clean UI and organized storage.
+=> coming soon 
 
-### 🤖 AI Recommendation App
+### 🤖 AI-ChatNova App
 An intelligent recommendation system built with Flutter and API integration that suggests personalized content based on user input and preferences.
-
+=>coming soon 
 ### 🍲 Recipe App
 Recipe browsing application with categorized content and API integration.
 
