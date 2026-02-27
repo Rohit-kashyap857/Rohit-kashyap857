@@ -33,7 +33,6 @@ A structured notes management app for students with clean UI and organized stora
 
 ### 🤖 AI-ChatNova App
 An intelligent recommendation system built with Flutter and API integration that suggests personalized content based on user input and preferences.
-=>coming soon 
 ### 🍲 Recipe App
 Recipe browsing application with categorized content and API integration.
 
